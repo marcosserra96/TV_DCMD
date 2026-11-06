@@ -1,0 +1,18 @@
+CONTADOR ENERGISA — HTML DINÂMICO (versão 2)
+
+1. Salve a logo na mesma pasta do index.html, com o nome exato logo.png.
+2. Abra index.html no navegador para testar.
+3. Para usar no PowerPoint: publique a pasta como site estático no Vercel (HTTPS).
+4. No Live Website Viewer, cole a URL publicada.
+5. Para abrir a prévia de data, adicione ?preview=1 ao endereço. Este painel só aparece nessa URL de teste.
+
+Funcionamento:
+- Dias até 31/12/2026, com base no calendário do fuso America/Sao_Paulo.
+- Saudação pela hora de Brasília, relógio e pensamento diário (30 mensagens autorais).
+- Cor do número por faixa de dias (45, 30, 15, 5).
+- Progresso desde 05/11/2026 até 31/12/2026.
+- Recalcula a cada 10 segundos e quando a página recupera foco.
+- Layout em HTML/CSS/SVG sem imagem de fundo, sem fontes externas ou bibliotecas.
+- Se logo.png não existir, aparece uma marca textual de substituição.
+
+OBSERVAÇÃO: O navegador/computador deve ficar ligado. O comportamento em modo apresentação depende do suplemento Live Website Viewer. Teste a virada em modo prévia antes de usar na TV.
